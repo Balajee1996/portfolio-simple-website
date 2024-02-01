@@ -1,6 +1,4 @@
-# portfolio-simple-website
-
-My Portfolio Website
+**My Portfolio Website**
 
 Welcome to my personal portfolio website! This project showcases my skills and provides a glimpse into my web development journey. The website consists of two main pages: Home and Contact.
 
